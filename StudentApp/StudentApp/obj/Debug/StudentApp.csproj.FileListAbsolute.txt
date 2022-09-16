@@ -1,0 +1,8 @@
+C:\Users\300360035\source\repos\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+C:\Users\300360035\source\repos\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+C:\Users\300360035\source\repos\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\300360035\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+C:\Users\300360035\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\300360035\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\300360035\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+C:\Users\300360035\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.pdb

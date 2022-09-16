@@ -1,0 +1,8 @@
+C:\Users\300360035\source\repos\CarpetCalculator\CarpetCalculator\bin\Debug\CarpetCalculator.exe.config
+C:\Users\300360035\source\repos\CarpetCalculator\CarpetCalculator\bin\Debug\CarpetCalculator.exe
+C:\Users\300360035\source\repos\CarpetCalculator\CarpetCalculator\bin\Debug\CarpetCalculator.pdb
+C:\Users\300360035\source\repos\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.csproj.AssemblyReference.cache
+C:\Users\300360035\source\repos\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\300360035\source\repos\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.csproj.CoreCompileInputs.cache
+C:\Users\300360035\source\repos\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.exe
+C:\Users\300360035\source\repos\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.pdb
