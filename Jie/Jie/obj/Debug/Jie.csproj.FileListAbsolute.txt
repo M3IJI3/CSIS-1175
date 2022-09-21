@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\Jie\Jie\bin\Debug\Jie.exe.config
+C:\Users\mj\Desktop\CSIS 1175\Jie\Jie\bin\Debug\Jie.exe
+C:\Users\mj\Desktop\CSIS 1175\Jie\Jie\bin\Debug\Jie.pdb
+C:\Users\mj\Desktop\CSIS 1175\Jie\Jie\obj\Debug\Jie.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\Jie\Jie\obj\Debug\Jie.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\Jie\Jie\obj\Debug\Jie.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\Jie\Jie\obj\Debug\Jie.exe
+C:\Users\mj\Desktop\CSIS 1175\Jie\Jie\obj\Debug\Jie.pdb
