@@ -43,8 +43,8 @@ namespace TimeFormatConvertor
 
             WriteLine();
             WriteLine("The result is =======> " + CalculateHourPart(seconds) + " hour(s) " +
-                                                    CalculateMinutePart(seconds) + " minute(s) " +
-                                                    CalculateSecondsPart(seconds) + " second(s) \n");
+                                                  CalculateMinutePart(seconds) + " minute(s) " +
+                                                  CalculateSecondsPart(seconds) + " second(s) \n");
 
             WriteLine("".PadRight(60, '-') + "\n");
             ReadKey();
