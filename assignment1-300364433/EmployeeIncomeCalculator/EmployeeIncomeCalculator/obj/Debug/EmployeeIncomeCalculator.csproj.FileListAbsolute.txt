@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\bin\Debug\EmployeeIncomeCalculator.exe.config
+C:\Users\mj\Desktop\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\bin\Debug\EmployeeIncomeCalculator.exe
+C:\Users\mj\Desktop\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\bin\Debug\EmployeeIncomeCalculator.pdb
+C:\Users\mj\Desktop\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\obj\Debug\EmployeeIncomeCalculator.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\obj\Debug\EmployeeIncomeCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\obj\Debug\EmployeeIncomeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\obj\Debug\EmployeeIncomeCalculator.exe
+C:\Users\mj\Desktop\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\obj\Debug\EmployeeIncomeCalculator.pdb

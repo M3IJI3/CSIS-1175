@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\assignment1-300364433\Printer\Printer\bin\Debug\Printer.exe.config
+C:\Users\mj\Desktop\assignment1-300364433\Printer\Printer\bin\Debug\Printer.exe
+C:\Users\mj\Desktop\assignment1-300364433\Printer\Printer\bin\Debug\Printer.pdb
+C:\Users\mj\Desktop\assignment1-300364433\Printer\Printer\obj\Debug\Printer.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\assignment1-300364433\Printer\Printer\obj\Debug\Printer.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\assignment1-300364433\Printer\Printer\obj\Debug\Printer.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\assignment1-300364433\Printer\Printer\obj\Debug\Printer.exe
+C:\Users\mj\Desktop\assignment1-300364433\Printer\Printer\obj\Debug\Printer.pdb

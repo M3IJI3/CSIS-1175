@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\assignment1-300364433\MileFeetCalculator\MileFeetCalculator\bin\Debug\MileFeetCalculator.exe.config
+C:\Users\mj\Desktop\assignment1-300364433\MileFeetCalculator\MileFeetCalculator\bin\Debug\MileFeetCalculator.exe
+C:\Users\mj\Desktop\assignment1-300364433\MileFeetCalculator\MileFeetCalculator\bin\Debug\MileFeetCalculator.pdb
+C:\Users\mj\Desktop\assignment1-300364433\MileFeetCalculator\MileFeetCalculator\obj\Debug\MileFeetCalculator.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\assignment1-300364433\MileFeetCalculator\MileFeetCalculator\obj\Debug\MileFeetCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\assignment1-300364433\MileFeetCalculator\MileFeetCalculator\obj\Debug\MileFeetCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\assignment1-300364433\MileFeetCalculator\MileFeetCalculator\obj\Debug\MileFeetCalculator.exe
+C:\Users\mj\Desktop\assignment1-300364433\MileFeetCalculator\MileFeetCalculator\obj\Debug\MileFeetCalculator.pdb
