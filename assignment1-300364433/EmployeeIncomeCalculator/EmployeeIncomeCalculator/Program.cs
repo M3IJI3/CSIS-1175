@@ -17,7 +17,7 @@ namespace EmployeeIncomeCalculator
             const double SOCIAL_SECURITY_RATE = 0.06;
 
             string employeeName = "Joshua Montain";
-            double salesThisMonth = 161432.00;
+            double salesThisMonth = 161423.00;
             
             // commission from monthly sales
             double commission = salesThisMonth * COMMISSION_RATE; // calculate commission
