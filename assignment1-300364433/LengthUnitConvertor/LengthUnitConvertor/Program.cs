@@ -35,10 +35,10 @@ namespace LengthUnitConvertor
             WriteLine("\tLength Unit Convertor");
 
             // read the user input
-            WriteLine("".PadRight(40, '-'));
+            WriteLine("".PadRight(60, '-'));
             Write("Please enter a metric meter value: ");
             meters = double.Parse(ReadLine());
-            WriteLine("".PadRight(40, '-'));
+            WriteLine("".PadRight(60, '-'));
             lengthInFeet = meters * METERS_TO_FEET;
 
             /*
@@ -49,20 +49,20 @@ namespace LengthUnitConvertor
              * d. convert decimal part of length to inches
              **/
             WriteLine("Calculations: \n");
-            WriteLine("Length(feet) = {0}m x {1}        = {2}ft", meters, METERS_TO_FEET, lengthInFeet);
-            WriteLine("Feet(deci)   = Floor({0})        = {1}ft", lengthInFeet, CalculateFeetPart(meters)); 
-            WriteLine("Feet(frac)   = {0}ft - {1}ft     = {2:F4}ft",
+            WriteLine("Length(feet)\t=   {0}m x {1}\t  = {2, 14:F4}ft", meters, METERS_TO_FEET, lengthInFeet);
+            WriteLine("  Feet(deci)\t=   Floor({0:F4})\t  = {1, 14}ft", lengthInFeet, CalculateFeetPart(meters)); 
+            WriteLine("  Feet(frac)\t=   {0:F4} - {1}\t  = {2, 14:F4}ft",
                 lengthInFeet, CalculateFeetPart(meters), lengthInFeet - CalculateFeetPart(meters)); 
 
-            WriteLine("  Inches     = {0:F4}ft x {1}  = {2:F4}inches", 
+            WriteLine("      Inches\t=   {0:F4}ft x  {1}\t  = {2, 14:F4}in", 
                 lengthInFeet - CalculateFeetPart(meters), FEET_TO_INCHES, CalculateInchesPart(meters));
 
             // results display
-            WriteLine("".PadRight(40, '-'));
+            WriteLine("".PadRight(60, '-'));
             WriteLine("Result: \n");
             WriteLine("{0}(meters) is {1} feet {2:F4} inches.",
                 meters, CalculateFeetPart(meters), CalculateInchesPart(meters));
-            WriteLine("".PadRight(40, '-'));
+            WriteLine("".PadRight(60, '-'));
             ReadKey();
         }
     }
