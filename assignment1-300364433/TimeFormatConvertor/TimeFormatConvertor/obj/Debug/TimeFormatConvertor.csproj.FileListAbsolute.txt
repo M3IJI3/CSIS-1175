@@ -1,0 +1,16 @@
+C:\Users\mj\Desktop\CSIS 1175\TimeFormatConvertor\TimeFormatConvertor\bin\Debug\TimeFormatConvertor.exe.config
+C:\Users\mj\Desktop\CSIS 1175\TimeFormatConvertor\TimeFormatConvertor\bin\Debug\TimeFormatConvertor.exe
+C:\Users\mj\Desktop\CSIS 1175\TimeFormatConvertor\TimeFormatConvertor\bin\Debug\TimeFormatConvertor.pdb
+C:\Users\mj\Desktop\CSIS 1175\TimeFormatConvertor\TimeFormatConvertor\obj\Debug\TimeFormatConvertor.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\TimeFormatConvertor\TimeFormatConvertor\obj\Debug\TimeFormatConvertor.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\TimeFormatConvertor\TimeFormatConvertor\obj\Debug\TimeFormatConvertor.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\TimeFormatConvertor\TimeFormatConvertor\obj\Debug\TimeFormatConvertor.exe
+C:\Users\mj\Desktop\CSIS 1175\TimeFormatConvertor\TimeFormatConvertor\obj\Debug\TimeFormatConvertor.pdb
+C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\TimeFormatConvertor\TimeFormatConvertor\bin\Debug\TimeFormatConvertor.exe.config
+C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\TimeFormatConvertor\TimeFormatConvertor\bin\Debug\TimeFormatConvertor.exe
+C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\TimeFormatConvertor\TimeFormatConvertor\bin\Debug\TimeFormatConvertor.pdb
+C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\TimeFormatConvertor\TimeFormatConvertor\obj\Debug\TimeFormatConvertor.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\TimeFormatConvertor\TimeFormatConvertor\obj\Debug\TimeFormatConvertor.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\TimeFormatConvertor\TimeFormatConvertor\obj\Debug\TimeFormatConvertor.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\TimeFormatConvertor\TimeFormatConvertor\obj\Debug\TimeFormatConvertor.exe
+C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\TimeFormatConvertor\TimeFormatConvertor\obj\Debug\TimeFormatConvertor.pdb
