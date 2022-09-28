@@ -28,3 +28,17 @@ namespace Printer
         }
     }
 }
+
+/*
+ * the result should be like this below:
+ * 
+ * DDDDD      DDDD   D      D DDDDDDDD D           DD    DDDDDDD
+   D    D    D    D  D      D D        D           DD    D     D
+   D     D   D    D  D      D D        D          D  D   D
+   D      D D      D D      D D  DDDDD D          DDDD   DDDDDDD
+   D      D D      D D      D D  D   D D         DD  DD        D
+   D     D   D    D  D      D D      D D         D    D        D
+   D    D    D    D   D    D  D     D  D        D      D D     D
+   DDDDD      DDDD     DDDD    DDDDD   DDDDDDDD D      D DDDDDDD
+
+ * **/

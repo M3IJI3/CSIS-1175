@@ -14,3 +14,11 @@ C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\EmployeeIncomeCalculator\Emp
 C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\obj\Debug\EmployeeIncomeCalculator.csproj.CoreCompileInputs.cache
 C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\obj\Debug\EmployeeIncomeCalculator.exe
 C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\obj\Debug\EmployeeIncomeCalculator.pdb
+C:\Users\300364433\CSIS-1175\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\bin\Debug\EmployeeIncomeCalculator.exe.config
+C:\Users\300364433\CSIS-1175\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\bin\Debug\EmployeeIncomeCalculator.exe
+C:\Users\300364433\CSIS-1175\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\bin\Debug\EmployeeIncomeCalculator.pdb
+C:\Users\300364433\CSIS-1175\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\obj\Debug\EmployeeIncomeCalculator.csproj.AssemblyReference.cache
+C:\Users\300364433\CSIS-1175\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\obj\Debug\EmployeeIncomeCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\300364433\CSIS-1175\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\obj\Debug\EmployeeIncomeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\300364433\CSIS-1175\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\obj\Debug\EmployeeIncomeCalculator.exe
+C:\Users\300364433\CSIS-1175\assignment1-300364433\EmployeeIncomeCalculator\EmployeeIncomeCalculator\obj\Debug\EmployeeIncomeCalculator.pdb
