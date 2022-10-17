@@ -6,6 +6,7 @@ C:\Users\mj\Desktop\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator
 C:\Users\mj\Desktop\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.csproj.CoreCompileInputs.cache
 C:\Users\mj\Desktop\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.exe
 C:\Users\mj\Desktop\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.pdb
+<<<<<<< HEAD
 C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\CarpetCalculator\CarpetCalculator\bin\Debug\CarpetCalculator.exe.config
 C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\CarpetCalculator\CarpetCalculator\bin\Debug\CarpetCalculator.exe
 C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\CarpetCalculator\CarpetCalculator\bin\Debug\CarpetCalculator.pdb
@@ -14,3 +15,13 @@ C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\CarpetCalculator\CarpetCalcu
 C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.csproj.CoreCompileInputs.cache
 C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.exe
 C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.pdb
+=======
+C:\Users\300364433\CSIS-1175\assignment1-300364433\CarpetCalculator\CarpetCalculator\bin\Debug\CarpetCalculator.exe.config
+C:\Users\300364433\CSIS-1175\assignment1-300364433\CarpetCalculator\CarpetCalculator\bin\Debug\CarpetCalculator.exe
+C:\Users\300364433\CSIS-1175\assignment1-300364433\CarpetCalculator\CarpetCalculator\bin\Debug\CarpetCalculator.pdb
+C:\Users\300364433\CSIS-1175\assignment1-300364433\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.csproj.AssemblyReference.cache
+C:\Users\300364433\CSIS-1175\assignment1-300364433\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\300364433\CSIS-1175\assignment1-300364433\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.csproj.CoreCompileInputs.cache
+C:\Users\300364433\CSIS-1175\assignment1-300364433\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.exe
+C:\Users\300364433\CSIS-1175\assignment1-300364433\CarpetCalculator\CarpetCalculator\obj\Debug\CarpetCalculator.pdb
+>>>>>>> ebd008a56d7fc55f57a131f91b7fd6468ffb6009

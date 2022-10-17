@@ -47,3 +47,12 @@ namespace MileFeetCalculator
         }
     }
 }
+/*
+ * the out of the result should be like this below:
+ * 
+ * Distance: 4.50 mile.
+
+   Distance: 7.25 kilometers.
+
+   Distance: 23,760 feet.
+ * **/

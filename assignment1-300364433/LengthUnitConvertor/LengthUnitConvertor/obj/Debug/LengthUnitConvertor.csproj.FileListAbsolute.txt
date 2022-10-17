@@ -14,3 +14,11 @@ C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\LengthUnitConvertor\LengthUn
 C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\LengthUnitConvertor\LengthUnitConvertor\obj\Debug\LengthUnitConvertor.csproj.CoreCompileInputs.cache
 C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\LengthUnitConvertor\LengthUnitConvertor\obj\Debug\LengthUnitConvertor.exe
 C:\Users\mj\Desktop\CSIS 1175\assignment1-300364433\LengthUnitConvertor\LengthUnitConvertor\obj\Debug\LengthUnitConvertor.pdb
+C:\Users\300364433\CSIS-1175\assignment1-300364433\LengthUnitConvertor\LengthUnitConvertor\bin\Debug\LengthUnitConvertor.exe.config
+C:\Users\300364433\CSIS-1175\assignment1-300364433\LengthUnitConvertor\LengthUnitConvertor\bin\Debug\LengthUnitConvertor.exe
+C:\Users\300364433\CSIS-1175\assignment1-300364433\LengthUnitConvertor\LengthUnitConvertor\bin\Debug\LengthUnitConvertor.pdb
+C:\Users\300364433\CSIS-1175\assignment1-300364433\LengthUnitConvertor\LengthUnitConvertor\obj\Debug\LengthUnitConvertor.csproj.AssemblyReference.cache
+C:\Users\300364433\CSIS-1175\assignment1-300364433\LengthUnitConvertor\LengthUnitConvertor\obj\Debug\LengthUnitConvertor.csproj.SuggestedBindingRedirects.cache
+C:\Users\300364433\CSIS-1175\assignment1-300364433\LengthUnitConvertor\LengthUnitConvertor\obj\Debug\LengthUnitConvertor.csproj.CoreCompileInputs.cache
+C:\Users\300364433\CSIS-1175\assignment1-300364433\LengthUnitConvertor\LengthUnitConvertor\obj\Debug\LengthUnitConvertor.exe
+C:\Users\300364433\CSIS-1175\assignment1-300364433\LengthUnitConvertor\LengthUnitConvertor\obj\Debug\LengthUnitConvertor.pdb

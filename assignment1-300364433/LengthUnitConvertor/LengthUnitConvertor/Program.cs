@@ -67,3 +67,23 @@ namespace LengthUnitConvertor
         }
     }
 }
+
+/*
+ * the output of the result should be like this below:
+ * 
+ *              Length Unit Convertor
+    ------------------------------------------------------------
+    Please enter a metric meter value: 12
+    ------------------------------------------------------------
+    Calculations:
+
+    Length(feet)  =   12m x 3.2808          =        39.3696ft
+    Feet(deci)    =   Floor(39.3696)        =             39ft
+    Feet(frac)    =   39.3696 - 39          =         0.3696ft
+        Inches    =   0.3696ft x  12        =         4.4352in
+    ------------------------------------------------------------
+    Result:
+
+    12(meters) is 39 feet 4.4352 inches.
+------------------------------------------------------------
+ * **/
