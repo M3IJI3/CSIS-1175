@@ -1,0 +1,11 @@
+C:\Users\mj\Desktop\CSIS 1175\Jie 300364433\Jie 300364433\bin\Debug\Jie 300364433.exe.config
+C:\Users\mj\Desktop\CSIS 1175\Jie 300364433\Jie 300364433\bin\Debug\Jie 300364433.exe
+C:\Users\mj\Desktop\CSIS 1175\Jie 300364433\Jie 300364433\bin\Debug\Jie 300364433.pdb
+C:\Users\mj\Desktop\CSIS 1175\Jie 300364433\Jie 300364433\obj\Debug\Jie 300364433.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\Jie 300364433\Jie 300364433\obj\Debug\Jie 300364433.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\Jie 300364433\Jie 300364433\obj\Debug\Jie_300364433.Form1.resources
+C:\Users\mj\Desktop\CSIS 1175\Jie 300364433\Jie 300364433\obj\Debug\Jie_300364433.Properties.Resources.resources
+C:\Users\mj\Desktop\CSIS 1175\Jie 300364433\Jie 300364433\obj\Debug\Jie 300364433.csproj.GenerateResource.cache
+C:\Users\mj\Desktop\CSIS 1175\Jie 300364433\Jie 300364433\obj\Debug\Jie 300364433.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\Jie 300364433\Jie 300364433\obj\Debug\Jie 300364433.exe
+C:\Users\mj\Desktop\CSIS 1175\Jie 300364433\Jie 300364433\obj\Debug\Jie 300364433.pdb

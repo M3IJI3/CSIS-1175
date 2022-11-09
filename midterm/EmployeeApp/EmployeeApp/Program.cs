@@ -20,7 +20,7 @@ namespace EmployeeApp
 
             while(double.TryParse(inputValue, out value) == false)
             {
-                Write("Hi, boss, please input the raise for {0} in the" +
+                Write("Hi, boss, please input the raise for {0} in the " +
                     "format of float number: ", employees[0].name);
                 inputValue = ReadLine();
             }
@@ -62,8 +62,6 @@ namespace EmployeeApp
                       orderby employee.CalculateNetIncome()
                       select employee;
             Array.ForEach<Employee>(qry.ToArray<Employee>(), employee => WriteLine());
-
-
 
             WriteLine("The employee with the highest netincome");
             WriteLine("".PadRight(60, '-'));
