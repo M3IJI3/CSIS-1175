@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\WeeklyCalorieCaounter\WeeklyCalorieCaounter\bin\Debug\WeeklyCalorieCaounter.exe.config
+C:\Users\mj\Desktop\CSIS 1175\WeeklyCalorieCaounter\WeeklyCalorieCaounter\bin\Debug\WeeklyCalorieCaounter.exe
+C:\Users\mj\Desktop\CSIS 1175\WeeklyCalorieCaounter\WeeklyCalorieCaounter\bin\Debug\WeeklyCalorieCaounter.pdb
+C:\Users\mj\Desktop\CSIS 1175\WeeklyCalorieCaounter\WeeklyCalorieCaounter\obj\Debug\WeeklyCalorieCaounter.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\WeeklyCalorieCaounter\WeeklyCalorieCaounter\obj\Debug\WeeklyCalorieCaounter.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\WeeklyCalorieCaounter\WeeklyCalorieCaounter\obj\Debug\WeeklyCalorieCaounter.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\WeeklyCalorieCaounter\WeeklyCalorieCaounter\obj\Debug\WeeklyCalorieCaounter.exe
+C:\Users\mj\Desktop\CSIS 1175\WeeklyCalorieCaounter\WeeklyCalorieCaounter\obj\Debug\WeeklyCalorieCaounter.pdb

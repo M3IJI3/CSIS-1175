@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\ArrayListExample\ArrayListExample\bin\Debug\ArrayListExample.exe.config
+C:\Users\mj\Desktop\CSIS 1175\ArrayListExample\ArrayListExample\bin\Debug\ArrayListExample.exe
+C:\Users\mj\Desktop\CSIS 1175\ArrayListExample\ArrayListExample\bin\Debug\ArrayListExample.pdb
+C:\Users\mj\Desktop\CSIS 1175\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.exe
+C:\Users\mj\Desktop\CSIS 1175\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.pdb

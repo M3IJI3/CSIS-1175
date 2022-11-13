@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\StackExample\StackExample\bin\Debug\StackExample.exe.config
+C:\Users\mj\Desktop\CSIS 1175\StackExample\StackExample\bin\Debug\StackExample.exe
+C:\Users\mj\Desktop\CSIS 1175\StackExample\StackExample\bin\Debug\StackExample.pdb
+C:\Users\mj\Desktop\CSIS 1175\StackExample\StackExample\obj\Debug\StackExample.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\StackExample\StackExample\obj\Debug\StackExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\StackExample\StackExample\obj\Debug\StackExample.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\StackExample\StackExample\obj\Debug\StackExample.exe
+C:\Users\mj\Desktop\CSIS 1175\StackExample\StackExample\obj\Debug\StackExample.pdb
