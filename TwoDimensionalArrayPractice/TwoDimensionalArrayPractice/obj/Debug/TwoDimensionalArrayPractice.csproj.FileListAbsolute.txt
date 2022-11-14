@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\TwoDimensionalArrayPractice\TwoDimensionalArrayPractice\bin\Debug\TwoDimensionalArrayPractice.exe.config
+C:\Users\mj\Desktop\CSIS 1175\TwoDimensionalArrayPractice\TwoDimensionalArrayPractice\bin\Debug\TwoDimensionalArrayPractice.exe
+C:\Users\mj\Desktop\CSIS 1175\TwoDimensionalArrayPractice\TwoDimensionalArrayPractice\bin\Debug\TwoDimensionalArrayPractice.pdb
+C:\Users\mj\Desktop\CSIS 1175\TwoDimensionalArrayPractice\TwoDimensionalArrayPractice\obj\Debug\TwoDimensionalArrayPractice.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\TwoDimensionalArrayPractice\TwoDimensionalArrayPractice\obj\Debug\TwoDimensionalArrayPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\TwoDimensionalArrayPractice\TwoDimensionalArrayPractice\obj\Debug\TwoDimensionalArrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\TwoDimensionalArrayPractice\TwoDimensionalArrayPractice\obj\Debug\TwoDimensionalArrayPractice.exe
+C:\Users\mj\Desktop\CSIS 1175\TwoDimensionalArrayPractice\TwoDimensionalArrayPractice\obj\Debug\TwoDimensionalArrayPractice.pdb

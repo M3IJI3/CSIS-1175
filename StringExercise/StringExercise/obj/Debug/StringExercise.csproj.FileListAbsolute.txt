@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\StringExercise\StringExercise\bin\Debug\StringExercise.exe.config
+C:\Users\mj\Desktop\CSIS 1175\StringExercise\StringExercise\bin\Debug\StringExercise.exe
+C:\Users\mj\Desktop\CSIS 1175\StringExercise\StringExercise\bin\Debug\StringExercise.pdb
+C:\Users\mj\Desktop\CSIS 1175\StringExercise\StringExercise\obj\Debug\StringExercise.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\StringExercise\StringExercise\obj\Debug\StringExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\StringExercise\StringExercise\obj\Debug\StringExercise.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\StringExercise\StringExercise\obj\Debug\StringExercise.exe
+C:\Users\mj\Desktop\CSIS 1175\StringExercise\StringExercise\obj\Debug\StringExercise.pdb
