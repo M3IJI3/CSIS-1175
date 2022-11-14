@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\PrintShape\PrintShape\bin\Debug\PrintShape.exe.config
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\PrintShape\PrintShape\bin\Debug\PrintShape.exe
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\PrintShape\PrintShape\bin\Debug\PrintShape.pdb
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\PrintShape\PrintShape\obj\Debug\PrintShape.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\PrintShape\PrintShape\obj\Debug\PrintShape.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\PrintShape\PrintShape\obj\Debug\PrintShape.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\PrintShape\PrintShape\obj\Debug\PrintShape.exe
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\PrintShape\PrintShape\obj\Debug\PrintShape.pdb
