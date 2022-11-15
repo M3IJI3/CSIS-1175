@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\RomanNumeralValueConverter\RomanNumeralValueConverter\bin\Debug\RomanNumeralValueConverter.exe.config
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\RomanNumeralValueConverter\RomanNumeralValueConverter\bin\Debug\RomanNumeralValueConverter.exe
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\RomanNumeralValueConverter\RomanNumeralValueConverter\bin\Debug\RomanNumeralValueConverter.pdb
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\RomanNumeralValueConverter\RomanNumeralValueConverter\obj\Debug\RomanNumeralValueConverter.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\RomanNumeralValueConverter\RomanNumeralValueConverter\obj\Debug\RomanNumeralValueConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\RomanNumeralValueConverter\RomanNumeralValueConverter\obj\Debug\RomanNumeralValueConverter.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\RomanNumeralValueConverter\RomanNumeralValueConverter\obj\Debug\RomanNumeralValueConverter.exe
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\RomanNumeralValueConverter\RomanNumeralValueConverter\obj\Debug\RomanNumeralValueConverter.pdb
