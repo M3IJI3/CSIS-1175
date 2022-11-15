@@ -21,25 +21,39 @@ namespace PrintShape
             {
                 WriteLine("Shape Printer\n" +
                      "1. Display the basic shape.\n" +
-                     "2. Enlarge the enlarged shape.\n" +
+                     "2. Enlarge the shape.\n" +
                      "0. Quit");
                 Write("Your Option: ");
-                input = int.Parse(ReadLine());
 
-                if (input == 1)
+                try
                 {
-                    Shape basicShape = new Shape();
-                    basicShape.DisplayShape();
+                    input = int.Parse(ReadLine());
+
+                    if (input == 1)
+                    {
+                        Shape basicShape = new Shape();
+                        basicShape.DisplayShape();
+                    }
+                    else if (input == 2)
+                    {
+                        Shape enlargeShape = new Shape(eachSideOfAsterisks += 2);
+                        enlargeShape.Enlarge();
+                    }
+                    else if (input == 0)
+                    {
+                        break;
+                    }
+                    else
+                    {
+                        WriteLine("Please input a valid number(0~2).\n");
+                    }
                 }
-                else if(input == 2)
+                catch
                 {
-                    Shape enlargeShape = new Shape(eachSideOfAsterisks += 2);
-                    enlargeShape.Enlarge();
+                    WriteLine("Invalid input, please input again!\n");
                 }
-                else
-                {
-                    break;
-                }
+
+                
             }
         }
     }

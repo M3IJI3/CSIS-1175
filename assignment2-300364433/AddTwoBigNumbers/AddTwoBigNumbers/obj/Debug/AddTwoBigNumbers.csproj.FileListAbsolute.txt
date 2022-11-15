@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\AddTwoBigNumbers\AddTwoBigNumbers\bin\Debug\AddTwoBigNumbers.exe.config
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\AddTwoBigNumbers\AddTwoBigNumbers\bin\Debug\AddTwoBigNumbers.exe
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\AddTwoBigNumbers\AddTwoBigNumbers\bin\Debug\AddTwoBigNumbers.pdb
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\AddTwoBigNumbers\AddTwoBigNumbers\obj\Debug\AddTwoBigNumbers.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\AddTwoBigNumbers\AddTwoBigNumbers\obj\Debug\AddTwoBigNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\AddTwoBigNumbers\AddTwoBigNumbers\obj\Debug\AddTwoBigNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\AddTwoBigNumbers\AddTwoBigNumbers\obj\Debug\AddTwoBigNumbers.exe
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\AddTwoBigNumbers\AddTwoBigNumbers\obj\Debug\AddTwoBigNumbers.pdb
