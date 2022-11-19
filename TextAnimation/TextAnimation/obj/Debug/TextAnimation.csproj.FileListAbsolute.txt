@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\TextAnimation\TextAnimation\bin\Debug\TextAnimation.exe.config
+C:\Users\mj\Desktop\CSIS 1175\TextAnimation\TextAnimation\bin\Debug\TextAnimation.exe
+C:\Users\mj\Desktop\CSIS 1175\TextAnimation\TextAnimation\bin\Debug\TextAnimation.pdb
+C:\Users\mj\Desktop\CSIS 1175\TextAnimation\TextAnimation\obj\Debug\TextAnimation.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\TextAnimation\TextAnimation\obj\Debug\TextAnimation.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\TextAnimation\TextAnimation\obj\Debug\TextAnimation.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\TextAnimation\TextAnimation\obj\Debug\TextAnimation.exe
+C:\Users\mj\Desktop\CSIS 1175\TextAnimation\TextAnimation\obj\Debug\TextAnimation.pdb

@@ -1,0 +1,11 @@
+C:\Users\mj\Desktop\CSIS 1175\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\mj\Desktop\CSIS 1175\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\mj\Desktop\CSIS 1175\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\mj\Desktop\CSIS 1175\CardGame\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\CardGame\CardGame\obj\Debug\CardGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\CardGame\CardGame\obj\Debug\CardGame.Form1.resources
+C:\Users\mj\Desktop\CSIS 1175\CardGame\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+C:\Users\mj\Desktop\CSIS 1175\CardGame\CardGame\obj\Debug\CardGame.csproj.GenerateResource.cache
+C:\Users\mj\Desktop\CSIS 1175\CardGame\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\mj\Desktop\CSIS 1175\CardGame\CardGame\obj\Debug\CardGame.pdb
