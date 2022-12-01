@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\ShapeAreaCalculator.exe.config
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\ShapeAreaCalculator.exe
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\ShapeAreaCalculator.pdb
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\ShapeAreaCalculator.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\ShapeAreaCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\ShapeAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\ShapeAreaCalculator.exe
+C:\Users\mj\Desktop\CSIS 1175\assignment2-300364433\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\ShapeAreaCalculator.pdb

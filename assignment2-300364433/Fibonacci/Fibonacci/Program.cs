@@ -19,7 +19,7 @@ namespace Fibonacci
         static void Main(string[] args)
         {
             string[] fibonacci = new string[FIBONACCI_SIZE];
-           // Random rd = new Random();
+            //Random rd = new Random();
 
             fibonacci[0] = "0";
             fibonacci[1] = "1";
@@ -33,7 +33,7 @@ namespace Fibonacci
 
             for (int i = 0; i < FIBONACCI_SIZE; i++)
             {
-                //Thread.Sleep(rd.Next(0,200));
+               // Thread.Sleep(rd.Next(0,500));
                 WriteLine("{0}-->{1}",i+1, fibonacci[i]);
             }
 
@@ -43,8 +43,6 @@ namespace Fibonacci
 
         public static string AddTwoBigIntegers(string s1, string s2)
         {
-           
-
             char[] c1 = s1.ToCharArray();
             char[] c2 = s2.ToCharArray();
 
@@ -76,8 +74,7 @@ namespace Fibonacci
                     if(i == 0 && carry > 0)
                     {
                         result.Push(carry);
-                    }
-                    
+                    }                 
                 }             
             }
             else
