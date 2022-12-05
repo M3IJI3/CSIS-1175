@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\DirectoryStructureDemo\DirectoryStructureDemo\bin\Debug\DirectoryStructureDemo.exe.config
+C:\Users\mj\Desktop\CSIS 1175\DirectoryStructureDemo\DirectoryStructureDemo\bin\Debug\DirectoryStructureDemo.exe
+C:\Users\mj\Desktop\CSIS 1175\DirectoryStructureDemo\DirectoryStructureDemo\bin\Debug\DirectoryStructureDemo.pdb
+C:\Users\mj\Desktop\CSIS 1175\DirectoryStructureDemo\DirectoryStructureDemo\obj\Debug\DirectoryStructureDemo.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\DirectoryStructureDemo\DirectoryStructureDemo\obj\Debug\DirectoryStructureDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\DirectoryStructureDemo\DirectoryStructureDemo\obj\Debug\DirectoryStructureDemo.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\DirectoryStructureDemo\DirectoryStructureDemo\obj\Debug\DirectoryStructureDemo.exe
+C:\Users\mj\Desktop\CSIS 1175\DirectoryStructureDemo\DirectoryStructureDemo\obj\Debug\DirectoryStructureDemo.pdb

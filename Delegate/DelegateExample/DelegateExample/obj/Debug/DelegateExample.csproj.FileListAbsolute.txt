@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe.config
+C:\Users\mj\Desktop\CSIS 1175\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe
+C:\Users\mj\Desktop\CSIS 1175\DelegateExample\DelegateExample\bin\Debug\DelegateExample.pdb
+C:\Users\mj\Desktop\CSIS 1175\DelegateExample\DelegateExample\obj\Debug\DelegateExample.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\DelegateExample\DelegateExample\obj\Debug\DelegateExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\DelegateExample\DelegateExample\obj\Debug\DelegateExample.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\DelegateExample\DelegateExample\obj\Debug\DelegateExample.exe
+C:\Users\mj\Desktop\CSIS 1175\DelegateExample\DelegateExample\obj\Debug\DelegateExample.pdb

@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\Delegate\ProgressReporter\ProgressReporter\bin\Debug\ProgressReporter.exe.config
+C:\Users\mj\Desktop\CSIS 1175\Delegate\ProgressReporter\ProgressReporter\bin\Debug\ProgressReporter.exe
+C:\Users\mj\Desktop\CSIS 1175\Delegate\ProgressReporter\ProgressReporter\bin\Debug\ProgressReporter.pdb
+C:\Users\mj\Desktop\CSIS 1175\Delegate\ProgressReporter\ProgressReporter\obj\Debug\ProgressReporter.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\Delegate\ProgressReporter\ProgressReporter\obj\Debug\ProgressReporter.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\Delegate\ProgressReporter\ProgressReporter\obj\Debug\ProgressReporter.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\Delegate\ProgressReporter\ProgressReporter\obj\Debug\ProgressReporter.exe
+C:\Users\mj\Desktop\CSIS 1175\Delegate\ProgressReporter\ProgressReporter\obj\Debug\ProgressReporter.pdb
