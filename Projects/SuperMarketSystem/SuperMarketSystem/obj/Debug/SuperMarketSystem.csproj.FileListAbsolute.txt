@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\Projects\SuperMarketSystem\SuperMarketSystem\bin\Debug\SuperMarketSystem.exe.config
+C:\Users\mj\Desktop\CSIS 1175\Projects\SuperMarketSystem\SuperMarketSystem\bin\Debug\SuperMarketSystem.exe
+C:\Users\mj\Desktop\CSIS 1175\Projects\SuperMarketSystem\SuperMarketSystem\bin\Debug\SuperMarketSystem.pdb
+C:\Users\mj\Desktop\CSIS 1175\Projects\SuperMarketSystem\SuperMarketSystem\obj\Debug\SuperMarketSystem.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\Projects\SuperMarketSystem\SuperMarketSystem\obj\Debug\SuperMarketSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\Projects\SuperMarketSystem\SuperMarketSystem\obj\Debug\SuperMarketSystem.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\Projects\SuperMarketSystem\SuperMarketSystem\obj\Debug\SuperMarketSystem.exe
+C:\Users\mj\Desktop\CSIS 1175\Projects\SuperMarketSystem\SuperMarketSystem\obj\Debug\SuperMarketSystem.pdb
