@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\Basic\FileStreamCopy\bin\Debug\FileStreamCopy.exe.config
+C:\Users\mj\Desktop\CSIS 1175\Basic\FileStreamCopy\bin\Debug\FileStreamCopy.exe
+C:\Users\mj\Desktop\CSIS 1175\Basic\FileStreamCopy\bin\Debug\FileStreamCopy.pdb
+C:\Users\mj\Desktop\CSIS 1175\Basic\FileStreamCopy\obj\Debug\FileStreamCopy.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\Basic\FileStreamCopy\obj\Debug\FileStreamCopy.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\Basic\FileStreamCopy\obj\Debug\FileStreamCopy.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\Basic\FileStreamCopy\obj\Debug\FileStreamCopy.exe
+C:\Users\mj\Desktop\CSIS 1175\Basic\FileStreamCopy\obj\Debug\FileStreamCopy.pdb
