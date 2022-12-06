@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+C:\Users\mj\Desktop\CSIS 1175\InterfaceExample\bin\Debug\InterfaceExample.exe
+C:\Users\mj\Desktop\CSIS 1175\InterfaceExample\bin\Debug\InterfaceExample.pdb
+C:\Users\mj\Desktop\CSIS 1175\InterfaceExample\obj\Debug\InterfaceExample.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\InterfaceExample\obj\Debug\InterfaceExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\InterfaceExample\obj\Debug\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\InterfaceExample\obj\Debug\InterfaceExample.exe
+C:\Users\mj\Desktop\CSIS 1175\InterfaceExample\obj\Debug\InterfaceExample.pdb

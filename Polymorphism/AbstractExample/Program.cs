@@ -30,6 +30,12 @@ namespace AbstractExample
     {
         // 抽象方法不允许有方法体
         public abstract void Bark();
+
+        // 不是抽象的方法可以有方法体
+        public void Test()
+        {
+            Console.WriteLine("");
+        }
     }
 
     class Dog : Animal

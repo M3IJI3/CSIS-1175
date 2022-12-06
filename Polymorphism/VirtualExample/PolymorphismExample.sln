@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismExample", "PolymorphismExample\PolymorphismExample.csproj", "{D961D510-A69A-4638-9951-CA34B687B6E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualExample", "PolymorphismExample\VirtualExample.csproj", "{D961D510-A69A-4638-9951-CA34B687B6E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismExercise", "..\PolymorphismExercise\PolymorphismExercise.csproj", "{4FFAAD67-215B-436A-B174-3A6A7193DAD4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualExercise", "..\PolymorphismExercise\VirtualExercise.csproj", "{4FFAAD67-215B-436A-B174-3A6A7193DAD4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractExample", "..\AbstractExample\AbstractExample.csproj", "{E7899BC0-13F5-4DFF-8654-871D4299B114}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractExercise", "..\AbstractExercise\AbstractExercise.csproj", "{859297B0-D8E9-45A6-A5DC-0CDAAC4F7524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExample", "..\InterfaceExample\InterfaceExample.csproj", "{6E7A974E-30B6-4788-9CCF-8A522642B247}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{859297B0-D8E9-45A6-A5DC-0CDAAC4F7524}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{859297B0-D8E9-45A6-A5DC-0CDAAC4F7524}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{859297B0-D8E9-45A6-A5DC-0CDAAC4F7524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7A974E-30B6-4788-9CCF-8A522642B247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7A974E-30B6-4788-9CCF-8A522642B247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7A974E-30B6-4788-9CCF-8A522642B247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7A974E-30B6-4788-9CCF-8A522642B247}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
