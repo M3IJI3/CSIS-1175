@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\Basic\FileStreamExampleWrite\bin\Debug\FileStreamExampleWrite.exe.config
+C:\Users\mj\Desktop\CSIS 1175\Basic\FileStreamExampleWrite\bin\Debug\FileStreamExampleWrite.exe
+C:\Users\mj\Desktop\CSIS 1175\Basic\FileStreamExampleWrite\bin\Debug\FileStreamExampleWrite.pdb
+C:\Users\mj\Desktop\CSIS 1175\Basic\FileStreamExampleWrite\obj\Debug\FileStreamExampleWrite.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\Basic\FileStreamExampleWrite\obj\Debug\FileStreamExampleWrite.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\Basic\FileStreamExampleWrite\obj\Debug\FileStreamExampleWrite.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\Basic\FileStreamExampleWrite\obj\Debug\FileStreamExampleWrite.exe
+C:\Users\mj\Desktop\CSIS 1175\Basic\FileStreamExampleWrite\obj\Debug\FileStreamExampleWrite.pdb
