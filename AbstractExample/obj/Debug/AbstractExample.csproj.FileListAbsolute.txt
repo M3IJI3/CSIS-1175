@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\AbstractExample\bin\Debug\AbstractExample.exe.config
+C:\Users\mj\Desktop\CSIS 1175\AbstractExample\bin\Debug\AbstractExample.exe
+C:\Users\mj\Desktop\CSIS 1175\AbstractExample\bin\Debug\AbstractExample.pdb
+C:\Users\mj\Desktop\CSIS 1175\AbstractExample\obj\Debug\AbstractExample.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\AbstractExample\obj\Debug\AbstractExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\AbstractExample\obj\Debug\AbstractExample.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\AbstractExample\obj\Debug\AbstractExample.exe
+C:\Users\mj\Desktop\CSIS 1175\AbstractExample\obj\Debug\AbstractExample.pdb
