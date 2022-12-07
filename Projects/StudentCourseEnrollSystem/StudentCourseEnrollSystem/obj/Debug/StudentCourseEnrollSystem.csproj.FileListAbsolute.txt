@@ -1,0 +1,11 @@
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseEnrollSystem\StudentCourseEnrollSystem\bin\Debug\StudentCourseEnrollSystem.exe.config
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseEnrollSystem\StudentCourseEnrollSystem\bin\Debug\StudentCourseEnrollSystem.exe
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseEnrollSystem\StudentCourseEnrollSystem\bin\Debug\StudentCourseEnrollSystem.pdb
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseEnrollSystem\StudentCourseEnrollSystem\obj\Debug\StudentCourseEnrollSystem.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseEnrollSystem\StudentCourseEnrollSystem\obj\Debug\StudentCourseEnrollSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseEnrollSystem\StudentCourseEnrollSystem\obj\Debug\StudentCourseEnrollSystem.Form1.resources
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseEnrollSystem\StudentCourseEnrollSystem\obj\Debug\StudentCourseEnrollSystem.Properties.Resources.resources
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseEnrollSystem\StudentCourseEnrollSystem\obj\Debug\StudentCourseEnrollSystem.csproj.GenerateResource.cache
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseEnrollSystem\StudentCourseEnrollSystem\obj\Debug\StudentCourseEnrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseEnrollSystem\StudentCourseEnrollSystem\obj\Debug\StudentCourseEnrollSystem.exe
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseEnrollSystem\StudentCourseEnrollSystem\obj\Debug\StudentCourseEnrollSystem.pdb

@@ -1,0 +1,11 @@
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseRegister\StudentCourseRegister\bin\Debug\StudentCourseRegister.exe.config
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseRegister\StudentCourseRegister\bin\Debug\StudentCourseRegister.exe
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseRegister\StudentCourseRegister\bin\Debug\StudentCourseRegister.pdb
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseRegister\StudentCourseRegister\obj\Debug\StudentCourseRegister.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseRegister\StudentCourseRegister\obj\Debug\StudentCourseRegister.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseRegister\StudentCourseRegister\obj\Debug\StudentCourseRegister.Form1.resources
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseRegister\StudentCourseRegister\obj\Debug\StudentCourseRegister.Properties.Resources.resources
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseRegister\StudentCourseRegister\obj\Debug\StudentCourseRegister.csproj.GenerateResource.cache
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseRegister\StudentCourseRegister\obj\Debug\StudentCourseRegister.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseRegister\StudentCourseRegister\obj\Debug\StudentCourseRegister.exe
+C:\Users\mj\Desktop\CSIS 1175\Projects\StudentCourseRegister\StudentCourseRegister\obj\Debug\StudentCourseRegister.pdb
