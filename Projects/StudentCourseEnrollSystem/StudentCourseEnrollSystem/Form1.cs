@@ -155,7 +155,7 @@ namespace StudentCourseEnrollSystem
                     if (student.courseStatus)
                     {
                         student.tuition = 2000;
-                        course.availableSeats = course.UpdateSeat(course);
+                        //course.availableSeats = course.UpdateSeat(course);
 
                         if (File.Exists(rcdFilePath))
                         {
@@ -164,9 +164,13 @@ namespace StudentCourseEnrollSystem
                             {
                                 if (int.Parse(lblSeatsAmount.Text.ToString()) > 0)
                                 {
+                                    // change it in the interface first
                                     lblSeatsAmount.Text = (int.Parse(lblSeatsAmount.Text.ToString()) - 1).ToString();
                                     fileWriter.WriteLine(student.stuID + "," + student.name + "," + course.name + "," + student.tuition);
                                     fileWriter.Close();
+
+                                    // change it in the backend
+                                    
                                     MessageBox.Show("Data has been written!");
 
                                 }

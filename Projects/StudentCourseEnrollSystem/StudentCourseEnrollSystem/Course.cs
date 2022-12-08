@@ -93,9 +93,37 @@ namespace StudentCourseEnrollSystem
             }
         }
 
-        public int UpdateSeat(Course courseToRegister)
+        public void UpdateSeat(Course courseToRegister)
         {
-            return courseToRegister.availableSeats - 1;
+            string filePath = "course.txt";
+            
+            StreamWriter fileWriter;
+            StreamReader fileReader;
+
+            string inValue;
+            string[] course;
+
+
+            if(File.Exists(filePath))
+            {
+                fileReader = new StreamReader(filePath);
+                while((inValue = fileReader.ReadLine()) != null)
+                {
+                    course = inValue.Split(',');
+
+                    if(courseToRegister.name == course[0])
+                    {
+
+                    }
+
+                }
+
+                
+            }
+            else
+            {
+                MessageBox.Show("The file does not exists!");
+            }
         }
     }
 }

@@ -9,6 +9,6 @@ namespace StudentCourseEnrollSystem
     interface IRegister
     {
         bool Eligibility(Course courseToRegister, CollegeStudent student);
-        int UpdateSeat(Course courseToRegister);
+        void UpdateSeat(Course courseToRegister);
     }
 }
