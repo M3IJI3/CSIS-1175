@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\Basic\OutExample\OutExample\bin\Debug\OutExample.exe.config
+C:\Users\mj\Desktop\CSIS 1175\Basic\OutExample\OutExample\bin\Debug\OutExample.exe
+C:\Users\mj\Desktop\CSIS 1175\Basic\OutExample\OutExample\bin\Debug\OutExample.pdb
+C:\Users\mj\Desktop\CSIS 1175\Basic\OutExample\OutExample\obj\Debug\OutExample.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\Basic\OutExample\OutExample\obj\Debug\OutExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\Basic\OutExample\OutExample\obj\Debug\OutExample.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\Basic\OutExample\OutExample\obj\Debug\OutExample.exe
+C:\Users\mj\Desktop\CSIS 1175\Basic\OutExample\OutExample\obj\Debug\OutExample.pdb

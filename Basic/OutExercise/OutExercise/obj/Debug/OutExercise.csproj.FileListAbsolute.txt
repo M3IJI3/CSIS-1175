@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\Basic\OutExercise\OutExercise\bin\Debug\OutExercise.exe.config
+C:\Users\mj\Desktop\CSIS 1175\Basic\OutExercise\OutExercise\bin\Debug\OutExercise.exe
+C:\Users\mj\Desktop\CSIS 1175\Basic\OutExercise\OutExercise\bin\Debug\OutExercise.pdb
+C:\Users\mj\Desktop\CSIS 1175\Basic\OutExercise\OutExercise\obj\Debug\OutExercise.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\Basic\OutExercise\OutExercise\obj\Debug\OutExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\Basic\OutExercise\OutExercise\obj\Debug\OutExercise.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\Basic\OutExercise\OutExercise\obj\Debug\OutExercise.exe
+C:\Users\mj\Desktop\CSIS 1175\Basic\OutExercise\OutExercise\obj\Debug\OutExercise.pdb
