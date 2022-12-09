@@ -1,0 +1,8 @@
+C:\Users\mj\Desktop\CSIS 1175\Basic\里氏转换练习\bin\Debug\里氏转换练习.exe.config
+C:\Users\mj\Desktop\CSIS 1175\Basic\里氏转换练习\bin\Debug\里氏转换练习.exe
+C:\Users\mj\Desktop\CSIS 1175\Basic\里氏转换练习\bin\Debug\里氏转换练习.pdb
+C:\Users\mj\Desktop\CSIS 1175\Basic\里氏转换练习\obj\Debug\里氏转换练习.csproj.AssemblyReference.cache
+C:\Users\mj\Desktop\CSIS 1175\Basic\里氏转换练习\obj\Debug\里氏转换练习.csproj.SuggestedBindingRedirects.cache
+C:\Users\mj\Desktop\CSIS 1175\Basic\里氏转换练习\obj\Debug\里氏转换练习.csproj.CoreCompileInputs.cache
+C:\Users\mj\Desktop\CSIS 1175\Basic\里氏转换练习\obj\Debug\里氏转换练习.exe
+C:\Users\mj\Desktop\CSIS 1175\Basic\里氏转换练习\obj\Debug\里氏转换练习.pdb
